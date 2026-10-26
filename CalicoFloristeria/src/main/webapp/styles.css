@@ -1,0 +1,79 @@
+body {
+    background-color: #fff3cf;   /* crema del logo */
+    font-family: Arial, sans-serif;
+    color: #3d2f5c;
+    margin: 0;
+    text-align: center;
+}
+
+/* Barra de arriba, morada como el logo */
+header {
+    background-color: #6b5294;   /* morado del logo */
+    color: #fff3cf;
+    padding: 1.5rem 1rem;
+}
+header img {
+    width: 120px;
+}
+header h1 {
+    margin: 0.5rem 0 0 0;
+    font-family: Georgia, serif;
+    font-style: italic;
+}
+
+h2 {
+    color: #6b5294;
+}
+
+section {
+    background-color: white;
+    width: 80vw;
+    margin: 1.5rem auto;
+    padding: 1rem;
+    border-radius: 12px;
+    border: 2px solid #6b5294;
+}
+
+form div {
+    margin: 0.5rem 0;
+}
+label {
+    display: block;
+    font-weight: bold;
+}
+input {
+    padding: 0.4rem;
+    border: 1px solid #6b5294;
+    border-radius: 6px;
+}
+
+button {
+    background-color: #6b5294;
+    color: #fff3cf;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+button:hover {
+    background-color: #4f3b73;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    background-color: #6b5294;
+    color: #fff3cf;
+    padding: 0.5rem;
+}
+td {
+    border: 1px solid #d9cfe8;
+    padding: 0.5rem;
+}
+tr:nth-child(even) td {
+    background-color: #f6f1fb;
+}

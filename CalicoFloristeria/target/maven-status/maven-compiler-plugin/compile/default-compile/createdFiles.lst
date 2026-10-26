@@ -1,0 +1,4 @@
+servlets\SvFlor.class
+com\conexion\calicofloristeria\JakartaRestConfiguration.class
+models\Flor.class
+com\conexion\calicofloristeria\resources\JakartaEE11Resource.class
